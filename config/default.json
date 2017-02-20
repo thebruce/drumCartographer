@@ -1,0 +1,39 @@
+{
+  "schemePunk": {
+    "schemes": {
+      "default": {
+        "mapItem": [
+          [
+            {
+              "source": {
+                "origin": "../templates/map-item.json",
+                "plugin": "jsonTemplateFileSource"
+              },
+              "destination": {
+                "target": "list[1].item",
+                "plugin": "concatIntoDestination"
+              },
+              "transform": {}
+            }
+          ]
+        ]
+      },
+      "quantize": {
+        "quantizeSettings": [
+          [
+            {
+              "source": {
+                "target": "properties.data.properties.type.default",
+                "plugin": "originalSchemeSource"
+              },
+              "destination": {
+                "target": "name"
+              },
+              "transform": {}
+            }
+          ]
+        ]
+      }
+    }
+  }
+}

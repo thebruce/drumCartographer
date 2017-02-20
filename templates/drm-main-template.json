@@ -1,0 +1,45 @@
+{
+  "string": {
+    "@": {
+      "name": "Name",
+      "value": "EZD2 Modern",
+      "wide": "true"
+    }
+  },
+  "list": [
+    {
+      "@": {
+        "name": "Quantize",
+        "type": "list"
+      },
+      "item" : {}
+    },
+    {
+      "@": {
+        "name": "Map",
+        "type": "list"
+      },
+      "item": []
+    },
+    {
+      "@": {
+        "name": "Order",
+        "type": "int"
+      },
+      "item": []
+    },
+    {
+      "@": {
+        "name": "OutputDevices",
+        "type": "list"
+      },
+      "item": {}
+    }
+  ],
+  "int": {
+    "@": {
+      "name": "Flags",
+      "value": "0"
+    }
+  }
+}

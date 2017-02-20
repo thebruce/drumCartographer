@@ -1,0 +1,73 @@
+{
+  "int": [
+    {
+      "@": {
+        "name": "INote",
+        "value": "36"
+      }
+    },
+    {
+      "@": {
+        "name": "ONote",
+        "value": "36"
+      }
+    },
+    {
+      "@": {
+        "name": "Channel",
+        "value": "9"
+      }
+    },
+    {
+      "@": {
+        "name": "Length",
+        "value": "200"
+      },
+      "=": "float"
+    },
+    {
+      "@": {
+        "name": "Mute",
+        "value": "0"
+      }
+    },
+    {
+      "@": {
+        "name": "DisplayNote",
+        "value": "65"
+      }
+    },
+    {
+      "@": {
+        "name": "HeadSymbol",
+        "value": "0"
+      }
+    },
+    {
+      "@": {
+        "name": "Voice",
+        "value": "1"
+      }
+    },
+    {
+      "@": {
+        "name": "PortIndex",
+        "value": "0"
+      }
+    },
+    {
+      "@": {
+        "name": "Name",
+        "value": "Kick Hit",
+        "wide": "true"
+      },
+      "=": "string"
+    },
+    {
+      "@": {
+        "name": "QuantizeIndex",
+        "value": "0"
+      }
+    }
+  ]
+}
