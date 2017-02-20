@@ -1,0 +1,35 @@
+{
+  "int" : [
+    {
+      "@": {
+        "name": "Grid",
+        "value": "4"
+      }
+    },
+    {
+      "@": {
+        "name": "Type",
+        "value": "0"
+      }
+    },
+    {
+      "@": {
+        "name": "Swing",
+        "value": "0"
+      },
+      "=": "float"
+    },
+    {
+      "@": {
+        "name": "Unquantized",
+        "value": "0"
+      }
+    },
+    {
+      "@": {
+        "name": "Legato",
+        "value": "50"
+      }
+    }
+  ]
+}

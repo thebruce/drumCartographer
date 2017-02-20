@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "@": {
+        "name": "DeviceName",
+        "value": "Default Device"
+      }
+    },
+    {
+      "@": {
+        "name": "PortName",
+        "value": "Default Port"
+      }
+    }
+  ]
+}
