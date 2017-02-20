@@ -57,7 +57,7 @@ test('collectPaths', t => {
     t.deepEqual(
       Object.keys(result),
       [
-        "./test/helpers/testCsvs/testOne.csv"
+        "testOne.csv"
       ]
     )
  });
