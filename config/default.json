@@ -1,4 +1,10 @@
 {
+  "drumMap": {
+    "templatePaths": {
+      "baseTemplate": "./templates/drm-main-template.json",
+      "quantizeItem": "./templates/quantize-item.json"
+    }
+  },
   "schemePunk": {
     "schemes": {
       "default": {

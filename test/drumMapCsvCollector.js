@@ -70,9 +70,9 @@ test('collectPathsFolders', t => {
     t.deepEqual(
       Object.keys(result).sort(),
       [
-        "/Users/david/projects/drumCartographer/test/helpers/testCsvs/testFour.csv",
-        "/Users/david/projects/drumCartographer/test/helpers/testCsvs/testOne.csv",
-        "/Users/david/projects/drumCartographer/test/helpers/testCsvs/testTwo.csv"
+        "/testFour.csv",
+        "/testOne.csv",
+        "/testTwo.csv"
       ]
     )
  });
